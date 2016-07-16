@@ -49,11 +49,15 @@
 
 ### 4.3 의석 수
 ![image](https://cloud.githubusercontent.com/assets/10662388/16893660/3a939efe-4b7a-11e6-9fff-4851b1d8467b.png)
-막대  안의 숫자는 총선에서 차지한 의석수를 의미한다. 제1 정당과 제2 정당은 다른 정당보다 더 두껍게 나타냈다.
+
+ 막대  안의 숫자는 총선에서 차지한 의석수를 의미한다. 제1 정당과 제2 정당은 다른 정당보다 더 두껍게 나타냈다.
+
 
 ### 4.4 합당 및 탈당
+
 ![image](https://cloud.githubusercontent.com/assets/10662388/16893805/253704a2-4b7e-11e6-969d-601d43bce1cd.png)
-정당이 해산하며 신설 합당, 흡수 합당하는 경우 직선 화살표로 표시했으며, 정당 내 특정 계파의 탈당은 점선 화살표로 표시했다.
+
+ 정당이 해산하며 신설 합당, 흡수 합당하는 경우 직선 화살표로 표시했으며, 정당 내 특정 계파의 탈당은 점선 화살표로 표시했다.
 
 ### 4.5 결과물 보기
 ![history-of-political-parties-kr](https://cloud.githubusercontent.com/assets/10662388/16893429/998f3768-4b72-11e6-9db3-72d24f6bc6d6.jpg)
