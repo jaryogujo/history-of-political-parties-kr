@@ -32,7 +32,7 @@
 이승만 대통령의 대한독립촉성국민회와 자유당을 새누리당 계열로 구분하는 것은 무리가 있고, 합당 및 탈당 정보를 직관적으로 파악하기 어렵다. 
 
 ### 2.4 조선일보
-#### 대한민국 주요 정당명 변천사(http://thestory.chosun.com/site/data/html_dir/2016/03/28/2016032802246.html)
+#### [대한민국 주요 정당명 변천사](http://thestory.chosun.com/site/data/html_dir/2016/03/28/2016032802246.html)
 ![default](https://cloud.githubusercontent.com/assets/10662388/16893822/adb14db0-4b7e-11e6-967a-532b78d235bf.jpg)
 
 2.2 위키피디아, 2.3 경향신문 자료와 반대로 연도를 내림차순 정렬하였다. 주요 정당 계보의 가독성이 우수하지만 합당 및 탈당 정보를 읽기 어렵다.
