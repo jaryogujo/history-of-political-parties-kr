@@ -5,7 +5,7 @@
 
 ## 2. 관련 자료 
 ### 2.1. 중앙선거관리위원회 사이버선거역사관
-[중앙선거관리위원회 사이버선거역사관](http://theme.archives.go.kr/next/rule/sub3_04.do)은 1963년 이후의 정당 등록 및 말소 상황을 기록해서 공개하고 있다.
+[중앙선거관리위원회 사이버선거역사관](http://museum.nec.go.kr/vote/voteKorea2.do)은 1963년 이후의 정당 등록 및 말소 상황을 기록해서 공개하고 있다.
 
 #### [1963 ~ 2014년 정당사 연표](http://museum.nec.go.kr/images/vote/map.jpg)
 
